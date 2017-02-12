@@ -8,7 +8,7 @@ Make sure you add the compent to your project and fill out your firebase creds
 
 
 
-<img src="http://imgur.com/a/f8C1X" width="300"><br />
+<img src="/screen.PNG" width="300"><br />
 Thanks Sabba<br />
 
 
